@@ -32,6 +32,8 @@ If you want to run without the need to specify python then add a reference to th
 flange 28 300 -s a
 ```
 
+![alt text](https://github.com/smithjb84/CLI-flange/blob/main/usage.PNG?raw=true)
+
 ## To do
 * Add ASME B16.5 for smaller ASME Flange Sizes
 * Add other Standards

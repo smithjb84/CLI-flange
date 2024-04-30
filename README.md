@@ -14,6 +14,7 @@ git clone https://github.com/smithjb84/CLI-flange.git
 
 ```bash
 pip install rich
+pip install argparse
 ```
 
 ## Usage
